@@ -1,0 +1,7 @@
+
+*.idea
+
+!*.babelrc
+!*.postcssrc.js
+!*.editorconfig
+
