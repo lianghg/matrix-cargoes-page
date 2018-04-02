@@ -4,7 +4,7 @@
     <el-container>
       <el-aside><v-menu></v-menu></el-aside>
       <el-container>
-        <el-main>666</el-main>
+        <el-main><router-view></router-view></el-main>
         <!--<el-footer>Footer</el-footer>-->
       </el-container>
     </el-container>
